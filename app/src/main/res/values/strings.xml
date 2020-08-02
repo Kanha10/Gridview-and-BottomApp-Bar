@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">grid example</string>
+    <string name="menu_search" />
+    <string name="menu_setting" />
+</resources>
